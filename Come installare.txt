@@ -1,0 +1,38 @@
+JustKleo - Chill Paradise hacks
+
+Versione 1.7
+Creatore: I Stumbled To Hard Guys!
+
+>>>>> E neccessario che hai installato Discord desktop e che sei entrato nel server discord di IStumbledTooHardGuys! <<<<<
+
+COME AGGIORNARE IL MOD MENU
+1. Apri Steam
+2. Clicca "Libreria" in alto
+3. Seleziona "Stumble Guys"
+4. Clicca sul pulsante dell'ingranaggio sotto il banner
+5. Vai su gestisci > sfoglia i file locali
+
+COPIA I SEGUENTI FILE DALLA CARTELLA GSH V1.5.1
+IStumbledTooHardGuys.dll in C:\Program Files (x86)\Steam\steamapps\common\Stumble Guys\Mods
+MoonSharp.Interpreter.dll in C:\Program Files (x86)\Steam\steamapps\common\Stumble Guys\Mods
+Bootstrap.dll in C:\Program Files (x86)\Steam\steamapps\common\Stumble Guys\MelonLoader\Dependencies 
+discord_game_sdk.dll in  C:\Program Files (x86)\Steam\steamapps\common\Stumble Guys
+
+Sostituisci i file se chiesto!
+
+RICHIEDE MELONLOADER INSTALLATO SU STUMBLE GUYS! TUTORIAL SUL SERVER DISCORD.
+
+Se il gioco continua a crashare:
+1. Installa di nuovo l'installer di MelonLoader
+2. Clicca sul tasto SELECT
+3. Seleziona Stumble Guys.exe
+4. Disattiva il quadratino su "Latest"
+5. Clicca su v0.5.7
+6. Seleziona v0.5.3
+7. Clicca Downgrade
+8. Clicca su OK
+Una volta fatto risostituisci i file nuovamente.
+
+Altri dubbi o problemi? Guarda la versione 3 del tutorial oppure vai nel canale #supporto sul server Discord CP:
+https://youtu.be/sroYzEwi5bo
+https://discord.com/channels/965567899794284605/1041035221786693652
